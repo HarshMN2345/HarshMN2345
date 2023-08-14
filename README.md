@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Mahajan</h1>
 <h3 align="center">"👋 B.Tech CSE 1st Year | Coding Enthusiast | Web Dev Explorer | Learning and Growing 🌱"</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshmn2345" alt="harshmn2345" /></a> </p>
 
 - 🌱 I’m currently learning **blockchain development**
 

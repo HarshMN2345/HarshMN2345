@@ -3,9 +3,6 @@
 
 
 - 🌱 I’m currently learning **blockchain development**
-
-- 👨‍💻 All of my projects are available at [https://black-x.vercel.app/](https://black-x.vercel.app/)
-
 - 📫 How to reach me **harshmahajan2345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

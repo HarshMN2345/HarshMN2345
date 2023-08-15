@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://black-x.vercel.app/)
+[![MasterHead](https://gifamerica.com/categories/view/6a5dbb4a59f6648517d99ebeb1d3b654201f1766/legen-wait-for-it-dary-gif.html)](https://black-x.vercel.app/)
 <h1 align="center">Hi 👋, I'm Harsh Mahajan</h1>
 <h3 align="center">"👋 B.Tech CSE 1st Year | Coding Enthusiast | Web Dev Explorer | Learning and Growing 🌱"</h3>
 <br>

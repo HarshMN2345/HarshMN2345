@@ -1,4 +1,4 @@
-<img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJiMnBnYzQ0OHlxMGE4MWQ1dGY1Z2ZpaWo4bWNhZXVuenpybjJrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUwHGTclRb7W/giphy.gif>
+<img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJiMnBnYzQ0OHlxMGE4MWQ1dGY1Z2ZpaWo4bWNhZXVuenpybjJrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUwHGTclRb7W/giphy.gif></img>
 <h1 align="center">Hi 👋, I'm Harsh Mahajan</h1>
 <h3 align="center">"👋 B.Tech CSE 1st Year | Coding Enthusiast | Web Dev Explorer | Learning and Growing 🌱"</h3>
 <br>

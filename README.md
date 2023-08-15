@@ -1,4 +1,4 @@
-(https://gifamerica.com/categories/view/6a5dbb4a59f6648517d99ebeb1d3b654201f1766/legen-wait-for-it-dary-gif.html)(https://black-x.vercel.app/)
+<img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJiMnBnYzQ0OHlxMGE4MWQ1dGY1Z2ZpaWo4bWNhZXVuenpybjJrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUwHGTclRb7W/giphy.gif>
 <h1 align="center">Hi 👋, I'm Harsh Mahajan</h1>
 <h3 align="center">"👋 B.Tech CSE 1st Year | Coding Enthusiast | Web Dev Explorer | Learning and Growing 🌱"</h3>
 <br>

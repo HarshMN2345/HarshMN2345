@@ -13,7 +13,7 @@
 - 🤔 My interests are with Web Development, Gaming 🎮 etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my [Resume](https://pdf.ac/32eIoX) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1hLMiIHPW0lWuPbqRJWnFKZfnsfHl_ZwP/view?usp=sharing) to get more info.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-mahajan-2345black/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-mahajan-2345black/" height="30" width="40" /></a>

@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 <h1 align="center">Hi 👋, I'm Harsh Mahajan</h1>
 <h3 align="center">"👋 B.Tech CSE 2nd Year | Coding Enthusiast | Web Dev Explorer | Learning and Growing 🌱"</h3>
 <br>

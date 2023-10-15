@@ -16,8 +16,8 @@
 - 📝 See my [Resume](https://drive.google.com/file/d/1hLMiIHPW0lWuPbqRJWnFKZfnsfHl_ZwP/view?usp=sharing) to get more info.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harsh-mahajan-2345black/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-mahajan-2345black/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/harshmahajan2345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harshmahajan2345/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-mahajan-2345black/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="https://www.linkedin.com/in/harsh-mahajan-2345black/" /></a>
+<a href="https://www.instagram.com/harshmahajan2345/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="https://www.instagram.com/harshmahajan2345/"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

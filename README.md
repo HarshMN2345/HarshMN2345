@@ -1,4 +1,4 @@
-[![An image of @harshmn2345's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshmn2345)](https://holopin.io/@harshmn2345)
+
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
 <h1 align="center">Hi 👋, I'm Harsh Mahajan</h1>
 <h3 align="center">"👋 B.Tech CSE 2nd Year | Coding Enthusiast | Web Dev Explorer | Learning and Growing 🌱"</h3>

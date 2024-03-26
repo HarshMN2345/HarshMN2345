@@ -14,7 +14,7 @@
 - 🤔 My interests are with Web Development, Gaming 🎮 etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my [Resume](https://drive.google.com/file/d/1hLMiIHPW0lWuPbqRJWnFKZfnsfHl_ZwP/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1hLMiIHPW0lWubqRJWnFKZfnsfHl_ZwP/view?usp=sharing) to get more info.
 - ☕ You can Buy me a [coffee](https://www.buymeacoffee.com/harshmahajan2345)
 <h3 align="left">Connect with me:</h3>
 <p align="left">

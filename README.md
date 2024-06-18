@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **DevSecOps**
 - 📫 How to reach me **harshmahajan2345@gmail.com**
 - 🤔 My interests are with Web Development, Gaming 🎮 etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;

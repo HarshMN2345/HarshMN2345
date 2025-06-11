@@ -17,7 +17,7 @@ Hobbies: Sketching, Travelling, I treat life like an RPG
 Twitter: @BlackX75676455
 LinkedIn: linkedin.com/in/mahajan-harsh
 GitHub: github.com/HarshMN2345
-Instagram: instagram.com/harsh.mn
+Instagram: instagram.com/harshMN2345
 Portfolio: [sotiras.dev](https://sotiras-dev.vercel.app/)
 ```
 
@@ -44,7 +44,7 @@ Portfolio: [sotiras.dev](https://sotiras-dev.vercel.app/)
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshMN2345/HarshMN2345/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshMN2345/HarshMN2345/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshMN2345/HarshMN2345/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshMN2345/HarshMN2345/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshMN2345/HarshMN2345/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshMN2345/HarshMN2345/output/github-contribution-grid-snake.svg" />
 </picture>

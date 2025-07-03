@@ -1,4 +1,4 @@
-<img src="https://github.com/Meldiron/meldiron/assets/19310830/01e38251-e0ec-4db3-835c-3dbcd1876791" />
+<img src="/profile/images/banner.png" alt="Appwrite Banner"></a>
 
 ```zsh
 > neofetch

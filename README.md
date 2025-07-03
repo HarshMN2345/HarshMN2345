@@ -1,4 +1,3 @@
-<img src="/profile/images/banner.png" alt="Appwrite Banner"></a>
 
 ```zsh
 > neofetch

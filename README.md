@@ -6,7 +6,7 @@
 HarshMN2345@github
 -------------------------
 OS: Ubuntu 24 x86_64
-Shell: zsh 5.9
+Shell: zsh 5.8
 Uptime: 20 years
 Terminal: alacritty
 Package Manager: Pacman, Yay

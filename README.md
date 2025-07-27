@@ -13,7 +13,7 @@ Package Manager: Pacman, Yay
 Processor: AMD Ryzen 5 4600H
 RAM: 15309MiB
 Location: Earth
-Languages: Java, TypeScript, Golang, PHP
+Languages: TypeScript, Java, Golang, PHP
 Hobbies: Reading, Sketching, Travelling, I treat life like a RPG
 Twitter: @BlackX75676455
 LinkedIn: linkedin.com/in/mahajan-harsh

@@ -9,7 +9,7 @@ OS: Ubuntu 24 x86_64
 Shell: zsh 5.8
 Uptime: 20 years
 Terminal: alacritty
-Package Manager: Pacman, Yay
+Package Manager: Pacman
 Processor: AMD Ryzen 5 4600H
 RAM: 15308MiB
 Location: Earth

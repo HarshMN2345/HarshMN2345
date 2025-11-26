@@ -5,7 +5,7 @@
 ```csharp
 HarshMN2345@github
 -------------------------
-OS: Ubuntu 22 x86_64
+OS: Ubuntu 25 x86_64
 Shell: zsh 5.9
 Uptime: 20 years
 Terminal: alacritty

@@ -11,7 +11,7 @@ Uptime: 21 years
 Terminal: alacritty
 Package Manager: Pacman
 Processor: AMD Ryzen 5 4600H
-RAM: 15312MiB
+RAM: 15322MiB
 Location: Earth
 Languages: TypeScript, Java, Golang, PHP
 Hobbies: Reading, Sketching, Travelling, I treat life like a RPG

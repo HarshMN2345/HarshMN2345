@@ -19,6 +19,7 @@ Twitter: @BlackX75676455
 LinkedIn: linkedin.com/in/mahajan-harsh
 GitHub: github.com/HarshMN2345
 Instagram: instagram.com/harshMN2345
+Email me: Harshmahajan2345@gmail.com
 AKA: Sotiras
 Portfolio: [sotiras.dev](https://sotiras-dev.vercel.app/)
 ```
